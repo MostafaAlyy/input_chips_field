@@ -1,4 +1,4 @@
-import 'package:flutter/material.dart';
+import 'package:material_ui/material_ui.dart';
 
 class InputChipsController extends ChangeNotifier {
   final List<String> _chips = [];
